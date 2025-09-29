@@ -4,9 +4,11 @@
 <img width="686" height="561" alt="Screenshot 2568-09-29 at 10 46 35" src="https://github.com/user-attachments/assets/e94656ae-dfc3-457d-a89d-47e64cbf7635" />
 
 สร้างไฟล์code phpเพื่อใช้เป็นapi wab app
+
 api.php
 <img width="981" height="1204" alt="Screenshot 2568-09-29 at 10 52 59" src="https://github.com/user-attachments/assets/6678529f-e639-40f6-9f5e-7541ad9f34d5" />
 <img width="622" height="341" alt="Screenshot 2568-09-29 at 10 53 23" src="https://github.com/user-attachments/assets/7065d896-63f4-414e-8f82-5117289913c6" />
+
 db.api
 <img width="557" height="272" alt="Screenshot 2568-09-29 at 10 54 04" src="https://github.com/user-attachments/assets/7abca859-94db-4221-a129-31f112a65063" />
 
