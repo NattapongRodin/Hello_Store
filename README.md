@@ -10,6 +10,7 @@ api.php
 <img width="622" height="341" alt="Screenshot 2568-09-29 at 10 53 23" src="https://github.com/user-attachments/assets/7065d896-63f4-414e-8f82-5117289913c6" />
 
 db.api
+
 <img width="557" height="272" alt="Screenshot 2568-09-29 at 10 54 04" src="https://github.com/user-attachments/assets/7abca859-94db-4221-a129-31f112a65063" />
 
 นำไฟล์ api มาไว้ใน htdocs ของ Xampp แล้วทดสอบ โดยเข้า localhost/api/api.php
